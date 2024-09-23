@@ -4,54 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f9;
-        }
-        h1 {
-            color: #333;
-            background-color: #4CAF50;
-            padding: 10px;
-            border-radius: 5px;
-            text-align: center;
-        }
-        h2 {
-            color: #4CAF50;
-            border-bottom: 2px solid #4CAF50;
-        }
-        p {
-            font-size: 16px;
-            color: #555;
-        }
-        code {
-            background-color: #f4f4f9;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-size: 14px;
-        }
-        pre {
-            background-color: #272822;
-            color: #f8f8f2;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        .command {
-            background-color: #e8e8e8;
-            padding: 10px;
-            border-left: 5px solid #4CAF50;
-            margin-bottom: 15px;
-        }
-    </style>
+
 </head>
 <body>
 
@@ -69,7 +22,7 @@
     <h2>Requirements</h2>
     <p>To run this project, ensure you have the following dependencies installed:</p>
     <ul>
-        <li>Python 3.6+</li>
+        <li>Python </li>
         <li>OpenCV</li>
         <li>face_recognition</li>
         <li>NumPy</li>
